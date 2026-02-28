@@ -1,0 +1,6 @@
+src/components/PageHeader.tsx(2,1): error TS6133: 'GlassCard' is declared but its value is never read.
+src/pages/CleaningPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/CleaningPage.tsx(3,10): error TS6133: 'Zap' is declared but its value is never read.
+src/pages/ExportPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/ProfilingPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/ResultsPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
