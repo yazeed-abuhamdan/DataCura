@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local Claude settings
+.claude/
+
+# Temp / junk files
+AiModule/nul
+FrontEnd/lint_errors.txt
+FrontEnd/tsc-errors.txt
